@@ -5,7 +5,7 @@ https://hafrey1.github.io/LunaTV-config
 
 ##  MoonTV/LunaTV配置
 订阅使用：复制下面链接  
-
+https://hk.gh-proxy.org/https://raw.githubusercontent.com/pqguanyinli/moontv_shipinyuan/refs/heads/main/moontv_shipinyuan_1.json
 👉 Base58编码订阅链接[精简版🎬源链接](https://raw.githubusercontent.com/hafrey1/LunaTV-config/refs/heads/main/jin18.txt)    （推荐使用自己部署的代理）精简版禁18源
 
 ```bash
